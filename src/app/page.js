@@ -26,7 +26,7 @@ export default function Home() {
           </Text>
         </Box>
       </Box>
-      
+
       <Box>
         <Text as="h2" className="mx-24">
           My Value to Your Projects...
@@ -64,12 +64,12 @@ export default function Home() {
       <Box size={3}>
         <Box gap={8} direction="column" className="max-w-3xl ml-auto mr-28">
           <Text variant="lead">
-            When I'm not coding, I enjoy sketching. Drawing is a creative outlet
+            When I&apos;m not coding, I enjoy sketching. Drawing is a creative outlet
             for me, offering a different form of expression and a way to unwind.
           </Text>
           <div>
             <Text variant="lead">
-              Ready? Let's build something amazing together!
+              Ready? Let&apos;s build something amazing together!
             </Text>
             <Text variant="muted">
               Write an email to{" "}
