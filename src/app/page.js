@@ -26,6 +26,7 @@ export default function Home() {
           </Text>
         </Box>
       </Box>
+      
       <Box>
         <Text as="h2" className="mx-24">
           My Value to Your Projects...
