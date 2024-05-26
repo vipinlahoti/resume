@@ -9,23 +9,23 @@ export const siteConfig = {
   publicNavItems: [
     {
       label: "GitHub",
-      href: "#GitHub",
+      href: "https://github.com/vipinlahoti",
     },
     {
       label: "LinkedIn",
-      href: "#LinkedIn",
+      href: "https://www.linkedin.com/in/vipinlahoti",
     },
     {
       label: "Medium",
-      href: "#Medium",
+      href: "https://vipinlahoti.medium.com",
     },
     {
       label: "Instagram",
-      href: "#Instagram",
+      href: "https://www.instagram.com/the.supercoder",
     },
     {
       label: "Read.cv",
-      href: "#Read.cv",
+      href: "https://read.cv/vipinlahoti",
     },
   ],
   socialLinks: [
